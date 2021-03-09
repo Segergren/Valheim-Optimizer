@@ -22,4 +22,4 @@ Select each method you want to use. Use all for best improvement.
 
 ...and you're off!
 
-![Image of Program](https://o11.dev/valheim.PNG)
+![Image of Program](https://o11.se/valheim.PNG)
