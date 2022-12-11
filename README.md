@@ -4,7 +4,7 @@ Optimizes Valheim by using four well known methods automatically.
 ### Setup
 Have Valheim installed on the computer.
 
-### Instructions: Coming soon
+### Instructions:
 
 #### 1. [Download the Latest Version](https://github.com/O11Software/Valheim-Optimizer/releases)
 
